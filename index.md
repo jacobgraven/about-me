@@ -45,7 +45,7 @@ Finally, for future reference, I will be doing the following things to help the 
 
 ## **Personal Life**
 Besides grinding school and leetcode like a mindless worker bee, I enjoy biking and rock climbing and generally anything involving nature. My cats are also a **_huge_** part of my life and I wouldn't be the same without them. I will include pictures of all my fur babies below.
-<br></br>
+<br>
 
 <picture>
   <center><img alt="Steve" src="pictures/steve.jpg" height=500></center>
@@ -64,19 +64,19 @@ Besides grinding school and leetcode like a mindless worker bee, I enjoy biking 
 <br>
 
 Even though I am a cat person, I can't forget about my senior dog Foxy (who just got a beautiful haircut):
-<br></br>
+<br>
 <picture>
   <center><img alt="" src="pictures/foxy.jpg" height=500></center>
 </picture>
 
 
 
-<br></br>
+<br>
 
 ### **References and More Information**
 - [Link to README.md](README.md)
 - [Link to Github](https://github.com/jacobgraven)
 - [Link to a song I like](https://youtu.be/UULIfPLMuDw)
-<br></br>
+<br>
 
 _<center>_This page was originally created for a school project and it will be updated in the future_</center>_
