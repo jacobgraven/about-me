@@ -86,4 +86,4 @@ Finally, a quote from _Infinite Jest_ by David Foster Wallace:
 - [Link to a song I like](https://youtu.be/UULIfPLMuDw)
 <br>
 
-_<center>_This page will be updated more in the future_</center>_
+_<center>This page will be updated more in the future</center>_
