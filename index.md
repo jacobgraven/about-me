@@ -82,6 +82,7 @@ Finally, an inspiring quote from _Infinite Jest_ by David Foster Wallace:
 
 ### **References and More Information**
 - [Link to README.md](README.md)
+- [Link to Steve's picture](pictures/steve.jpg)
 - [Link to Github](https://github.com/jacobgraven)
 - [Link to a song I like](https://youtu.be/UULIfPLMuDw)
 <br>
