@@ -74,7 +74,7 @@ Even though I am a cat person, I can't forget about my senior dog Foxy (who just
 
 <br>
 
-Finally, a quote from _Infinite Jest_ by David Foster Wallace:
+Finally, an inspiring quote from _Infinite Jest_ by David Foster Wallace:
 
 > The man who knows his limitations, has none.
 
@@ -85,5 +85,3 @@ Finally, a quote from _Infinite Jest_ by David Foster Wallace:
 - [Link to Github](https://github.com/jacobgraven)
 - [Link to a song I like](https://youtu.be/UULIfPLMuDw)
 <br>
-
-_<center>This page will be updated more in the future</center>_
